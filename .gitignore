@@ -1,3 +1,5 @@
+src/ConnectionDB/CredentialsDB.java
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/

@@ -7,7 +7,7 @@ public class CredentialsDB {
     // keys)
     static HashMap<String, String> credentials = new HashMap<>() {
         {
-            put("DB", "pokemons");
+            put("DB", "hercules");
             put("PORT", "5433");
             put("USER", "postgres");
             put("HOST", "localhost");
